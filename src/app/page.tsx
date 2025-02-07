@@ -10,8 +10,6 @@ import TopHeader from "@/components/TopHeader";
 import Universe from "@/components/Universe";
 
 
-import Image from "next/image";
-
 export default function Home() {
   return (
    <div>

@@ -28,7 +28,6 @@ export default eslintConfig;
 //   baseDirectory: __dirname,
 // });
 
-// Define the ESLint configuration
 // const eslintConfig = [
 //   ...compat.extends("next/core-web-vitals", "next/typescript"),
 //   {

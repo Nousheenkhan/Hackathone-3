@@ -4,7 +4,7 @@
 import React, { useEffect } from "react";
 import Image from "next/image";
 
-const Products = () => {// eslint-disable-line @typescript-eslint/no-unused-vars
+const Products = () => {
 
   useEffect(() => {
     console.log("Best component rendered");

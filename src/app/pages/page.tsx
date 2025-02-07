@@ -1,9 +1,6 @@
 // 
-
-import TopHeader from "@/components/TopHeader";
 import Header from "@/components/Header";
 import Image from "next/image";
-import Products from "@/components/Products";
 import Footer from "@/components/Footer";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
@@ -14,7 +11,6 @@ import { HiOutlinePhone } from "react-icons/hi";
 export default function Pages() {
   return (
     <div className="relative">
-      {/* <TopHeader /> */}
        <header>
             {/* Top Bar */}
             <div className="hidden md:block bg-[#23856D] text-white text-sm py-2">
